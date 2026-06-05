@@ -1,0 +1,7 @@
+.venv/
+input/
+intermediate/
+output/
+reference/
+__pycache__/
+*.pyc
